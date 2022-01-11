@@ -43,7 +43,7 @@
       "id": "cataract/core",
       "links": ["iridescence/core", "clairvoyant/http", "clairvoyant/html", "clairvoyant/css"],
       "sources": ["src/core"],
-      "version": "0.2.0",
+      "version": "0.3.0",
       "docs": ["doc"]
     }
   ]
